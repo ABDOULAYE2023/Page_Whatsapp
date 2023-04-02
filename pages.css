@@ -1,0 +1,493 @@
+body{
+    background-color: #FCF5EB;
+}
+
+.logowhatsapp{
+    height: 30px;
+    width: 130px;
+}
+.a{
+    margin: 30px;
+    position: relative;
+    bottom: 20px;
+    left: 255px;
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+}
+.button{
+    position: relative;
+    bottom: 20px;
+    left: 255px;
+    color:black;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: green;
+    padding: 5px;
+    margin: 30px;
+}
+.fr3{
+    text-decoration: none;
+    color: black;
+}
+.img3{
+    position: relative;
+    bottom: 750px;
+    left: 750px;
+    width: 300px;
+    height: 50px;
+    
+}
+.img4{
+    position: relative;
+    bottom: 650px;
+    left: 400px;
+    width: 300px;
+    height:50px;
+    
+    
+}
+.img5{
+    position: relative;
+    bottom: 750px;
+    left: 250px;
+    width: 300px;
+    
+}
+.img6{
+    position: relative;
+    bottom: 400px;
+    left: -200px;
+    width: 400px;
+    
+}
+.img7{
+    position: relative;
+    bottom: 380px;
+    left: 700px;
+    
+}
+.test1{
+    position: relative;
+    bottom: 950px;
+    left: 160px;
+    font-size: 70px;
+    color: aliceblue;
+}
+.test2{
+    position: relative;
+    bottom: 950px;
+    left: 160px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.button1{
+    position: relative;
+    bottom: 950px;
+    left: 150px;
+    color:black;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: green;
+    padding: 10px;
+    text-decoration: none;
+}
+.img12{
+  position: relative;  
+  bottom: 800px;
+  width: 1250px;
+  left: 50px;
+  
+}
+    
+.test3{
+    position: relative;
+    bottom: 800px;
+    left: 250px;
+    font-size: 45px;
+    color: black;
+}
+.img13{
+    position: relative;  
+    bottom: 800px;
+    width: 1250px;
+    left: 50px;
+    
+  }
+  
+ .img14{
+    position: relative;  
+    bottom: 700px;
+    width: 350px;
+    left: 800px;
+    
+  }
+  
+.test4{
+    position: relative;
+    bottom: 1300px;
+    left: 250px;
+    font-size: 55px;
+    color: black;
+}
+.test5{
+    position: relative;
+    bottom: 1350px;
+    left: 250px;
+    font-size: 20px;
+    color: black;
+}
+.test6{
+   position: relative;
+   bottom: 1350px;
+   left: 250px;
+   font-size: 25px; 
+   color: black;
+   text-decoration: underline rgb(82, 160, 4);
+}
+.bloc{
+    background-color: black;
+    width: 1250px;
+    height: 700px;
+    position: relative;
+    bottom: 1100px;
+    left: 50px;
+}
+.img17{
+    position: relative;  
+    bottom: 1710px;
+    width: 450px;
+    left: 200px;
+    
+  }
+  .test7{
+    position: relative;
+    bottom: 2170px;
+    left: 750px;
+    font-size: 50px;
+    color: aliceblue;
+}
+.li{
+    color: rgb(81, 155, 7);
+}
+.test8{
+    position: relative;
+    bottom: 2170px;
+    left: 750px;
+    font-size: 15px;
+    color: aliceblue;
+
+}
+
+.test9{
+    position: relative;
+    bottom: 2150px;
+    left: 750px;
+    font-size: 25px; 
+    color: aliceblue;
+    text-decoration: underline rgb(80, 155, 5);
+ }
+ .img20{
+    position: relative;  
+    bottom: 1920px;
+    width: 350px;
+    left: 350px;
+    z-index: -1;
+    
+  }
+  .img18{
+    position: relative;  
+    bottom: 2000px;
+    width: 400px;
+    left: 700px;
+    
+  }
+  .img21{
+    position: relative;  
+    bottom: 1000px;
+    width: 400px;
+    right: 600px;
+    z-index: -1;
+    
+  }
+  .img19{
+    position: relative;  
+    bottom: 1550px;
+    width: 430px;
+    left: 150px;
+    
+  }
+  .test10{
+    position: relative;
+    bottom: 2850px;
+    left: 150px;
+    font-size: 60px;
+    color: black;
+}
+.test11{
+    position: relative;
+    bottom: 2855px;
+    left: 150px;
+    font-size: 20px;
+    color: black;
+}
+.test12{
+    position: relative;
+    bottom: 2850px;
+    left: 150px;
+    font-size: 25px; 
+    color: black;
+    text-decoration: underline rgb(80, 155, 5);
+ }
+ .test13{
+    position: relative;
+    bottom: 2450px;
+    left: 750px;
+    font-size: 65px;
+    color: black;
+}
+.test14{
+    position: relative;
+    bottom: 2500px;
+    left: 750px;
+    font-size: 20px;
+    color: black;
+}
+.test15{
+    position: relative;
+    bottom: 2500px;
+    left: 750px;
+    font-size: 25px; 
+    color: black;
+    text-decoration: underline rgb(80, 155, 5);
+ }
+ .test16{
+    position: relative;
+    bottom: 2650px;
+    left: 150px;
+    font-size: 65px;
+    color: black;
+}
+.img25{
+    position: relative;  
+    bottom: 2000px;
+    width: 400px;
+    left: 730px;
+    
+  }
+  .test17{
+    position: relative;
+    bottom: 2700px;
+    left: 150px;
+    font-size: 20px;
+    color: black;
+}
+.test18{
+    position: relative;
+    bottom: 2700px;
+    left: 150px;
+    font-size: 25px; 
+    color: black;
+    text-decoration: underline rgb(80, 155, 5);
+ }
+ .rectangle{
+    background-color: rgb(228, 247, 221);
+    width: 1250px;
+    height: 700px;
+    position: relative;
+    bottom: 2355px;
+    left: 40px;
+    border-radius: 15px;
+    z-index: -1;
+ }
+ 
+ .rectangle1{
+    background-color: white;
+    width:450px;
+    height: 400px;
+    position: relative;
+    bottom: 2955px;
+    left: 650px;
+    border-radius: 15px;
+ } 
+ .test19{
+    position: relative;
+    bottom: 3400px;
+    left: 90px;
+    font-size:65px ;
+    color: black;
+ }
+ .test20{
+    position: relative;
+    bottom: 3430px;
+    left: 740px;
+    font-size:30px ;
+    color: black;
+ }
+ .test21{
+    position: relative;
+    bottom: 3430px;
+    left: 740px;
+    font-size:15px ;
+    color: black;
+ }
+ .rectangle2{
+    background-color: black;
+    width: 1250px;
+    height: 700px;
+    position: relative;
+    bottom: 3125px;
+    left: 40px;
+    z-index: -1;
+ }
+ .test22{
+    position: relative;
+    bottom: 3700px;
+    left: 440px;
+    font-size:15 px ;
+    color: aliceblue;
+    line-height: 40px;
+ }
+ .test23{
+    position: relative;
+    bottom: 3920px;
+    left: 650px;
+    font-size:15px ;
+    color: aliceblue;
+    line-height: 40px;
+ }
+ .test25{
+    position: relative;
+    bottom: 4355px;
+    left: 850px;
+    font-size:15px ;
+    color: aliceblue;
+    line-height: 40px;
+ }
+ .test24{
+    position: relative;
+    bottom: 4140px;
+    left: 1050px;
+    font-size:15px ;
+    color: aliceblue;
+    line-height: 40px;
+ }
+
+ .img2{
+    position: relative;
+    border-radius: 40px;
+
+ }
+ .footer2{
+    position: relative;
+    bottom: 4000px;
+    left: 400px;
+    padding: 10px;
+    flex-direction: row;
+ }
+ .img1-footer{
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    height: 50px;
+    width: 50px;
+ }
+ .img2-footer{
+    position: relative;
+    bottom: 255px;
+    left: 160px;
+    height: 50px;
+    width: 50px;
+ }
+ .img3-footer{
+    position: relative;
+    bottom: 310px;
+    left: 219px;
+    height: 50px;
+    width: 50px;
+ }
+ .img4-footer{
+    position: relative;
+    bottom: 365px;
+    left: 280px;
+    height: 50px;
+    width: 50px;
+ }
+ .liste-media{
+    position: relative;
+    padding: 50px;
+    bottom: 60px;
+
+ }
+ .plus-petit{
+    position: relative;
+    bottom: 4280px;
+    width: 850px;
+    left: 100px;
+ }
+ .logofooter{
+    position: relative;
+    padding: 50px;
+    bottom: 60px;
+
+}
+.logo{
+    position: relative;
+    bottom: 900px;
+    left: -250px;
+}
+.button2{
+    position: relative;
+    bottom: 4800px;
+    left: 190px;
+    color:black;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: green;
+    padding: 10px;
+    text-decoration: none;
+}
+.button3{
+    position: relative;
+    bottom: 4580px;
+    left: 990px;
+    border-style: solid;
+    border-color: aliceblue;
+    font-weight: bolder;
+    border-radius: 15px;
+    background-color: rgba(167, 167, 167, 0.027);
+    color: black;
+    padding: 10px;
+    text-decoration: underline none;
+    height: 50px;
+    width: 150px;
+}
+.fr{
+    text-decoration: none;
+    color: #FCF5EB;
+}
+.fr1{
+    text-decoration: none;
+    color: black;
+}
+.fr2{
+    text-decoration: none;
+    color: black;
+}
+.a1{
+    position: relative;
+    bottom: 4580px;
+    left: 100px;
+    text-decoration: none;
+    color:aliceblue;
+    font-weight: bolder;
+}
+.test26{
+    position: relative;
+    bottom: 4640px;
+    left: 150px;
+    font-size:15px ;
+    color: aliceblue;
+    line-height: 40px;
+ }
